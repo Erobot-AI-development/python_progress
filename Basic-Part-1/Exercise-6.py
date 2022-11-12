@@ -1,0 +1,5 @@
+data = input('sample data: ')
+data_list = list(data.split(','))
+data_tuple = tuple(data.split(','))
+print(data_list)
+print(data_tuple)
